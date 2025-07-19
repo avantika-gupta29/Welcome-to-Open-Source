@@ -50,10 +50,19 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
         <td align="center">
                 <a href="https://alisolanki.com/">
                     <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;"
-                        alt="Ali Solanki" />
+                        alt="all solanki" />
                     <br />
                     <sub>
-                        <b>Ali Solanki</b>
+                        <b></b>
+                    </sub>
+                </a>
+            </td>
+             <td align="center">
+                    <img src=""D:\sample\Just Drop Ocean Smoothly Animated Waves Stock Photo 2347156127 _ Shutterstock.html"" width="100px;"
+                        alt="Avantika fupta" />
+                    <br />
+                    <sub>
+                        <b>Avantika gupta</b>
                     </sub>
                 </a>
             </td>
