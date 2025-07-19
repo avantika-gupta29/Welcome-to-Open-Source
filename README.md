@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                     <img src=""D:\sample\Just Drop Ocean Smoothly Animated Waves Stock Photo 2347156127 _ Shutterstock.html"" width="100px;"
-                        alt="Avantika fupta" />
+                        alt="Avantika gupta" />
                     <br />
                     <sub>
                         <b>Avantika gupta</b>
